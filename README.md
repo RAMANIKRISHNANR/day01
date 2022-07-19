@@ -40,8 +40,8 @@ Objects in JavaScript may be defined as an unordered collection of related data,
 
 syntax:
 
-variable name= {
-    key_name : value,(keyvalue pair)
+variable vaiablename= {
+    keyname : value;
 }
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
